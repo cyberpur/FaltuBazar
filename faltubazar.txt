@@ -1,0 +1,10 @@
+
+// For codeiginiter v4
+
+1. public folder-put image css,jss in this folder
+2. app folder 
+	1.1 app/config/routes.php-put all path here 
+        1.2  app/controler-put all application logic here 
+        1.3 app/models-put all database logic here
+        1.4 app/database/migration-put all sql syntax to create databsee here 
+        1.5 app/views-pur all html design file here.
